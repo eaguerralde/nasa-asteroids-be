@@ -1,5 +1,5 @@
  export interface Favourite {
-  neoId: number;
+  neoId: string;
   userId: number;
  }
  
